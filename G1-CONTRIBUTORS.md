@@ -1,7 +1,7 @@
 ## Contributors
 - _Add your name here in Task C_
-- Revillieza, Frederick (@blissfuljuan)
-- Revillieza, Frederick (@juantojuan)
-- Estreva, Michaela Ma. Alexa D. (@michaela-es)
-- Abel, Zydric (@zydric)
+- Revilleza, Frederick (**@blissfuljuan**)
+- Revilleza, Frederick (**@juantojuan**)
+- Estrera, Michaela Ma. Alexa D. (@michaela-es)
+- Abel, Zydric (**@zydric**)
 - Badinas, Gregory Ivan Onyx (**@GIOnyx**)
